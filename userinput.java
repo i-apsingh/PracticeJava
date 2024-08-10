@@ -8,6 +8,6 @@ public class userinput{
 
         System.out.println("this is your age : "+age);
 
-        System.out.println("end of code");
+
     }
 }
