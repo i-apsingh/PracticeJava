@@ -7,5 +7,7 @@ public class userinput{
         int age = input.nextInt();
 
         System.out.println("this is your age : "+age);
+
+        System.out.println("end of code");
     }
 }
